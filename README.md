@@ -23,3 +23,4 @@
 В каждом сборника приблизительно 30 стихотворений.
 
 Итак
+![TJDtca0GKy0.jpg](https://github.com/XakerV/Project/blob/master/TJDtca0GKy0.jpg)
