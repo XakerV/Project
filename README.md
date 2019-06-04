@@ -79,12 +79,19 @@
 Последним этапом стала визуализация ключевых слов. Voyant tools нам в помощь. Благодаря этому этапу мы можем увидеть процент нужных нам слов
 
 Блок
+
 ![блок.jpg](https://github.com/XakerV/Project/blob/master/%D0%B1%D0%BB%D0%BE%D0%BA.jpg)
+
 Анненский
+
 ![анненскийо.jpg](https://github.com/XakerV/Project/blob/master/%D0%B0%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%D0%BE.jpg)
+
 Белый
+
 ![белый.jpg](https://github.com/XakerV/Project/blob/master/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9.jpg)
+
 Иванов
+
 ![иванов.jpg](https://github.com/XakerV/Project/blob/master/%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2.jpg)
 
 Надеемся, что вам стало понятнее, какое место время суток занимает в поэзии символистов. Спойлер: большое! 
