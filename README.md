@@ -72,3 +72,24 @@
 ![Снимок экрана 2019-06-04 в 22.46.06.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.46.06.png)
 ![Снимок экрана 2019-06-04 в 23.47.07.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2023.47.07.png)
 ![Снимок экрана 2019-06-04 в 23.47.24.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2023.47.24.png)
+
+Выводы у каждого автора получились приблизительно одинаковы, но иногда разнились. Иванов утро воспринимает более положительно, нежели другие поэты. Для Блока ночь - единственное время для вдохновения, наиболее подробно хотелось бы расшифровать Анненского и его отношение ко времени суток. "Звезды ищу в сомнении", "Ночь придет, у Боженьки постельки есть для всех" - ночь ассоциируется не только с музой, но так же со временем, когда становится приближенным к небесам. "А к утру кто-то там развеяв молча сны" - утром же все сходит на нет.
+
+![3G56Qfn-x50.jpg](https://github.com/XakerV/Project/blob/master/3G56Qfn-x50.jpg)
+Последним этапом стала визуализация ключевых слов. Voyant tools нам в помощь. Благодаря этому этапу мы можем увидеть процент нужных нам слов
+
+Блок
+![блок.jpg](https://github.com/XakerV/Project/blob/master/%D0%B1%D0%BB%D0%BE%D0%BA.jpg)
+Анненский
+![анненскийо.jpg](https://github.com/XakerV/Project/blob/master/%D0%B0%D0%BD%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%D0%BE.jpg)
+Белый
+![белый.jpg](https://github.com/XakerV/Project/blob/master/%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9.jpg)
+Иванов
+![иванов.jpg](https://github.com/XakerV/Project/blob/master/%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2.jpg)
+
+Надеемся, что вам стало понятнее, какое место время суток занимает в поэзии символистов. Спойлер: большое! 
+#Спите меньше, вдохновляйтесь больше!
+![CDz7ApEsknU.jpg](https://github.com/XakerV/Project/blob/master/CDz7ApEsknU.jpg)
+![eO1JyL26KzM.jpg](https://github.com/XakerV/Project/blob/master/eO1JyL26KzM.jpg)
+![hY6AIle-0Sw.jpg](https://github.com/XakerV/Project/blob/master/hY6AIle-0Sw.jpg)
+![pF9QK1WVyKw.jpg](https://github.com/XakerV/Project/blob/master/pF9QK1WVyKw.jpg)
