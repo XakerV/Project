@@ -27,6 +27,7 @@
 
 В первую очередь нам нужно было загрузить все тексты в Notepad++ и воспользоваться ЛЮБИМЫМИ регулярными выражениями!
 ![SoDyTSfA4f0.jpg](https://github.com/XakerV/Project/blob/master/SoDyTSfA4f0.jpg)
+![2E4E3Z5abUg.jpg](https://github.com/XakerV/Project/blob/master/2E4E3Z5abUg.jpg)
 
 На самом деле результаты нас порадовали, и мы получили очень много полезной информации.
 
@@ -35,6 +36,7 @@
 Конечно же ночь появляется в стихотворениях значительно чаще, значит ее символ особенно важен
 
 Самые большие любители не спать - это Блок и Анненский
+![dZx-teCVX6M.jpg](https://github.com/XakerV/Project/blob/master/dZx-teCVX6M.jpg)
 
 Анненский в принципе богат на времена суток
 
@@ -47,3 +49,26 @@
 Это все представлено в шуточной форме, но зато c`est vrai
 
 Далее было решено окунуться в мир контекста вместе с AntConc
+![1k9D5AwDG3k.jpg](https://github.com/XakerV/Project/blob/master/1k9D5AwDG3k.jpg)
+
+На примере Анненского покажем, как это выглядело 
+![Снимок экрана 2019-06-04 в 21.22.44.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2021.22.44.png)
+![Снимок экрана 2019-06-04 в 21.22.51.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2021.22.51.png)
+![Снимок экрана 2019-06-04 в 22.08.40.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.08.40.png)
+![Снимок экрана 2019-06-04 в 22.08.55.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.08.55.png)
+![Снимок экрана 2019-06-04 в 22.09.03.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.09.03.png)
+![Снимок экрана 2019-06-04 в 22.09.06.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.09.06.png)
+![Снимок экрана 2019-06-04 в 22.15.51.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.15.51.png)
+![Снимок экрана 2019-06-04 в 22.19.17.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.19.17.png)
+![Снимок экрана 2019-06-04 в 22.31.47.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.31.47.png)
+![Снимок экрана 2019-06-04 в 22.31.57.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.31.57.png)
+![Снимок экрана 2019-06-04 в 22.32.01.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.32.01.png)
+![Снимок экрана 2019-06-04 в 22.35.25.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.35.25.png)
+![Снимок экрана 2019-06-04 в 22.40.17.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.40.17.png)
+![Снимок экрана 2019-06-04 в 22.40.28.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.40.28.png)
+![Снимок экрана 2019-06-04 в 22.40.36.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.40.36.png)
+![Снимок экрана 2019-06-04 в 22.40.41.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.40.41.png)
+![Снимок экрана 2019-06-04 в 22.46.03.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.46.03.png)
+![Снимок экрана 2019-06-04 в 22.46.06.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2022.46.06.png)
+![Снимок экрана 2019-06-04 в 23.47.07.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2023.47.07.png)
+![Снимок экрана 2019-06-04 в 23.47.24.png](https://github.com/XakerV/Project/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202019-06-04%20%D0%B2%2023.47.24.png)
