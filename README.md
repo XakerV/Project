@@ -29,6 +29,20 @@
 ![SoDyTSfA4f0.jpg](https://github.com/XakerV/Project/blob/master/SoDyTSfA4f0.jpg)
 ![2E4E3Z5abUg.jpg](https://github.com/XakerV/Project/blob/master/2E4E3Z5abUg.jpg)
 
+Слова, которые нас интересовали:
+
+ДЕНЬ: будень, денёк, денёчек, полдень
+
+НОЧЬ: ноченька, нощь, сумерки, сумрак, полусумерки, полутьма, мрак, полумрак
+
+УТРО: рань, заранок, рассвет, заря, зорька
+
+ВЕЧЕР: вечор, вечерок, закат
+
+СОЛНЦЕ: солнце, звезда, светило, свет, солнышко, звездочка
+
+ЛУНА: серп, полумесяц, месяц
+
 На самом деле результаты нас порадовали, и мы получили очень много полезной информации.
 
 ![1.jpg](https://github.com/XakerV/Project/blob/master/1.jpg)
@@ -98,5 +112,4 @@
 #Спите меньше, вдохновляйтесь больше!
 ![CDz7ApEsknU.jpg](https://github.com/XakerV/Project/blob/master/CDz7ApEsknU.jpg)
 ![eO1JyL26KzM.jpg](https://github.com/XakerV/Project/blob/master/eO1JyL26KzM.jpg)
-![hY6AIle-0Sw.jpg](https://github.com/XakerV/Project/blob/master/hY6AIle-0Sw.jpg)
 ![pF9QK1WVyKw.jpg](https://github.com/XakerV/Project/blob/master/pF9QK1WVyKw.jpg)
